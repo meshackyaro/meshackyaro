@@ -6,8 +6,8 @@
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/-black?logo=x&logoColor=white)](https://x.com/mvrckgmi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshack-yaro/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=2348172581637&text&type=phone_number&app_absent=0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshack-yaro/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=2348172581637&text&type=phone_number&app_absent=0)
 
 # 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/solidity-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
