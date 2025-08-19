@@ -11,6 +11,7 @@
 
 # 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Move](https://img.shields.io/badge/Sui%20Move-6fbcf0?style=for-the-badge&logo=sui&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Move](https://img.shields.io/badge/Sui%20Move-000000?style=for-the-badge&logo=sui&logoColor=6fbcf0)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
