@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I'm into both Web 2 and Web 3 Developer<br>👯 I'm looking to collaborate with people and also on open source projects<br>🌱 I'm currently looking to work with/on more web 2 or web 3 projects<br>⚡ Fun fact: I can debug fast and efficiently!
+🔭 I'm a Web 2 and Web 3 Developer<br>👯 I'm looking to collaborate with people and also on open source projects<br>🌱 I'm currently looking to work with/on more web 2 or web 3 projects<br>⚡ Fun fact: I can debug fast and efficiently!
 
 
 ## 🌐 Socials:
